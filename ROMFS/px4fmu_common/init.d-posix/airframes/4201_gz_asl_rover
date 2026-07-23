@@ -59,5 +59,3 @@ param set-default SIM_GZ_WH_DIS2 100
 param set-default SIM_GZ_WH_REV 0 
 
 param set-default UXRCE_DDS_NS 0
-
-s
